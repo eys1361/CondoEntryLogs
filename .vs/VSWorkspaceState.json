@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CondoEntryLogs",
+    "\\CondoEntryLogs\\wwwroot",
+    "\\CondoEntryLogs\\wwwroot\\css",
+    "\\CondoEntryLogs\\wwwroot\\js",
+    "\\CondoEntryLogs\\wwwroot\\lib",
+    "\\CondoEntryLogs\\wwwroot\\lib\\bootstrap",
+    "\\CondoEntryLogs\\wwwroot\\lib\\jquery-validation",
+    "\\CondoEntryLogs\\wwwroot\\lib\\jquery-validation\\dist"
+  ],
+  "PreviewInSolutionExplorer": false
+}
